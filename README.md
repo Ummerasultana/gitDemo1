@@ -1,2 +1,3 @@
 # gitDemo1
-this is mt apna clg git repository
+this is my apna clg git repository<br>
+Author-Ummerasultana
